@@ -9,9 +9,11 @@ This is a collaborative research initiative between George Mason University stud
 ## Problem Context and Importance
 The problem of wildlife strikes, particularly bird collisions with aircraft, has become increasingly significant in the aviation industry. Here's the context and importance of this issue:
 
-[![How All Passengers Survived the Miracle on the Hudson](https://img.youtube.com/vi/4v7kASXPQMc/0.jpg)](https://www.youtube.com/watch?v=4v7kASXPQMc)
+<a href="https://www.youtube.com/watch?v=4v7kASXPQMc" target="_blank">
+  <img src="https://img.youtube.com/vi/4v7kASXPQMc/0.jpg" alt="How All Passengers Survived the Miracle on the Hudson">
+</a>
 
-YouTube: [How All Passengers Survived the Miracle on the Hudson](https://youtu.be/w6EblErBJqw?si=GuX83CxQb400aICQ)
+YouTube: <a href="https://youtu.be/w6EblErBJqw?si=GuX83CxQb400aICQ" target="_blank">How All Passengers Survived the Miracle on the Hudson</a>
 
 **Problem Context**     
 - Approximately 272,000 wildlife strikes with civil aircraft were reported in the USA between 1990 and 2022.
