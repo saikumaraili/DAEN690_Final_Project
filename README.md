@@ -93,3 +93,7 @@ YouTube: [How All Passengers Survived the Miracle on the Hudson](https://youtu.b
 ## Acknowledgments
 
 Special thanks to the FAA for their support and collaboration on this critical aviation safety project.
+
+## Further Reading
+
+- **Journal Article**: Blackwell, B.F., DeVault, T.L., Seamans, T.W., Lima, S.L., Baumhardt, P. and Fernández-Juricic, E. (2012), Exploiting avian vision with aircraft lighting to reduce bird strikes. Journal of Applied Ecology, 49: 758-766. https://doi.org/10.1111/j.1365-2664.2012.02165.x
