@@ -31,10 +31,10 @@ YouTube: [How All Passengers Survived the Miracle on the Hudson](https://youtu.b
 
 ## Potential Customers and Business Value
 
-- **Airports**: Improved safety and reduced incidents
-- **Airlines**: Enhanced flight safety and minimized delays
+- **Airports**: To improve safety and reduce incidents
+- **Airlines**: To enhance flight safety and minimize delays
 - **FAA**: Better data for policy-making and regulation
-- **Wildlife Conservation Groups**: Improved wildlife management strategies
+- **Wildlife Conservation Groups**: To improve wildlife management strategies
 
 ## Project Architecture
 
