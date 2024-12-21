@@ -1,6 +1,7 @@
 # DAEN 690 Capstone Project: Wildlife Strike Mitigation Project
 `Team: AirGuardians`    
-`Contributors: Sai Kumar Aili, Shruty Suman, Vindhya Bodipudi, Tram Pham, Vishnu Priya Karangula`    
+`Members: Sai Kumar Aili, Shruty Suman, Vindhya Bodipudi, Tram Pham, Vishnu Priya Karangula`    
+`Date: 08 December 2023`
 
 ## Overview
 
