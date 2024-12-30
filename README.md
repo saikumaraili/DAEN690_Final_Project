@@ -10,6 +10,12 @@ This is a collaborative research initiative between George Mason University stud
 ## Problem Context and Importance
 The problem of wildlife strikes, particularly bird collisions with aircraft, has become increasingly significant in the aviation industry. Here's the context and importance of this issue:
 
+**RECENT INCIDENT on Sunday Dec 30, 2024**     
+[![South Korea launches air safety review after Jeju Air plane crash | BBC News](https://img.youtube.com/vi/nyoAX1xey90/0.jpg)](https://www.youtube.com/watch?v=nyoAX1xey90)     
+
+YouTube: [South Korea launches air safety review after Jeju Air plane crash | BBC News](https://www.youtube.com/watch?v=nyoAX1xey90)     
+     
+
 [![How All Passengers Survived the Miracle on the Hudson](https://img.youtube.com/vi/4v7kASXPQMc/0.jpg)](https://www.youtube.com/watch?v=4v7kASXPQMc)
 
 YouTube: [How All Passengers Survived the Miracle on the Hudson](https://youtu.be/w6EblErBJqw?si=GuX83CxQb400aICQ)
